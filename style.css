@@ -1,0 +1,14 @@
+body{
+    margin:0;
+}
+canvas{
+    display:pink;
+}
+ 
+#hello{
+    position:absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%,-15%);
+    color:rgb(233, 10, 10);
+}
